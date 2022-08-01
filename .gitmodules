@@ -4,3 +4,6 @@
 [submodule "kitchen"]
 	path = kitchen
 	url = git@github.com:jr-cardona/kitchen.git
+[submodule "inventory"]
+	path = inventory
+	url = git@github.com:jr-cardona/inventory.git
